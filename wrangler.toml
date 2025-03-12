@@ -1,0 +1,9 @@
+name = "proxy-worker"
+type = "javascript"  # Define que é um worker JS
+
+account_id = "SUA_ACCOUNT_ID"  # Substitua pelo seu Account ID do Cloudflare
+workers_dev = true  # Permite rodar sem um domínio configurado
+compatibility_date = "2024-03-12"  # Use a data atual
+
+# Define o ponto de entrada do Worker
+main = "proxy.js" 
