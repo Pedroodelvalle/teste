@@ -1,5 +1,5 @@
 name = "teste"
-main = "worker.js"  # Definindo o ponto de entrada correto
+main = "worker.js"  # Worker correto como ponto de entrada
 compatibility_date = "2024-03-12"
 
 account_id = "cac9af3508f9c8bc41f91c88ad3a6cf2"  # Substitua pelo seu Account ID
