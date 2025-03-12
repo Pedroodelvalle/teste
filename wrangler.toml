@@ -1,7 +1,7 @@
 name = "teste"
 type = "javascript"  # Define que é um worker JS
 
-account_id = "Scac9af3508f9c8bc41f91c88ad3a6cf2"  # Substitua pelo seu Account ID do Cloudflare
+account_id = "cac9af3508f9c8bc41f91c88ad3a6cf2"  # Substitua pelo seu Account ID do Cloudflare
 workers_dev = true  # Permite rodar sem um domínio configurado
 compatibility_date = "2024-03-12"  # Use a data atual
 
